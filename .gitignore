@@ -1,0 +1,26 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+*.log
+
+# Android
+android/app/release/
+android/local.properties
+android/.gradle/
+
+# iOS
+ios/Pods/
+ios/Flutter/Generated.xcconfig
+
+# VSCode
+.vscode/
+
+# IntelliJ/Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
